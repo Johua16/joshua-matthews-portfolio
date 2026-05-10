@@ -1,0 +1,19 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#070B12"/>
+  <circle cx="160" cy="70" r="310" fill="#48C6EF" fill-opacity="0.18"/>
+  <circle cx="1040" cy="80" r="280" fill="#7CE7B8" fill-opacity="0.14"/>
+  <rect x="80" y="80" width="1040" height="470" rx="32" fill="white" fill-opacity="0.055" stroke="white" stroke-opacity="0.16"/>
+  <rect x="120" y="120" width="86" height="86" rx="18" fill="url(#mark)"/>
+  <text x="148" y="174" fill="#041018" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">JM</text>
+  <text x="120" y="285" fill="#F6F8FB" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">Joshua Matthews</text>
+  <text x="120" y="355" fill="#D8DEEA" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="600">Freelance Web Developer</text>
+  <text x="120" y="420" fill="#A8B3C5" font-family="Arial, Helvetica, sans-serif" font-size="28">Business websites • E-commerce • Landing pages • Web apps</text>
+  <rect x="120" y="465" width="245" height="56" rx="12" fill="#7CE7B8"/>
+  <text x="154" y="502" fill="#041018" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="800">Start a Project</text>
+  <defs>
+    <linearGradient id="mark" x1="120" y1="120" x2="206" y2="206" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#48C6EF"/>
+      <stop offset="1" stop-color="#7CE7B8"/>
+    </linearGradient>
+  </defs>
+</svg>
