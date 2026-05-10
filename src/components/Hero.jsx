@@ -8,7 +8,7 @@ export default function Hero() {
         <div className="hero-copy">
           <span className="hero-kicker">Freelance web developer for business websites and web apps</span>
           <h1>
-            Hi, I&apos;m <span>Joshua</span>. I build websites that help businesses look professional and win more clients.
+            Hi, I&apos;m <span>Joshua</span>. I build websites that make your business easier to trust, understand, and choose.
           </h1>
           <p>
             I help brands, entrepreneurs, and growing businesses turn rough ideas into polished websites, landing pages,
